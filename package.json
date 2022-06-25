@@ -1,0 +1,23 @@
+{
+  "name": "background.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehan210898/background.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehan210898/background.github.io/issues"
+  },
+  "homepage": "https://github.com/rehan210898/background.github.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "source-map-url": "^0.4.1"
+  }
+}

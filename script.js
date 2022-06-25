@@ -1,4 +1,9 @@
 
+var _ = require('lodash');
+
+var ar =[1,2,3,4,5,6,7,8,9];
+console.log(ar);
+console.log('answer:',_.without(ar,3));
         function genSquare() {
             for(var i=0;i<=125;i++){
                 var color =["#B5B1B2","#ADA9B7","#A9AFD1","#A1CDF4","#7C809B","#157A6E","#499F68","#77B28C","#C2C5BB","#B4654A"];
